@@ -1,0 +1,16 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+python3
+Traceback (most recent call last):
+  File "<pyshell#1>", line 1, in <module>
+    python3
+NameError: name 'python3' is not defined
+2+2
+4
+print("Hola, mi nombre es Federico")
+Hola, mi nombre es Federico
+print("Estoy empezando mi curso de python")
+Estoy empezando mi curso de python
+print("Espero aprender mucho")
+Espero aprender mucho
